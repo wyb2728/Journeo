@@ -38,7 +38,7 @@ onUnmounted(() => {
 
 <style scoped>
 #container {
-  width: 1600px;
-  height: 800px;
+  width: 2000px;
+  height: 100vh;
 }
 </style>
